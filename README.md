@@ -1,16 +1,13 @@
-# flutter_firebase_chat
+# Flutter Firebase Chat
 
-A new Flutter project.
+This is a simple chat application which is made for beginner. 
 
-## Getting Started
+There is 3 advance verison of this chat app
 
-This project is a starting point for a Flutter application.
+- Flutter Firebase Chat with Provider for state management
+- Flutter Firebase Chat with Riverpod for state management
+- Flutter Firebase Chat with Bloc and Cubit for state management
+## Config
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+package name: in.nstack.flutter_firebase_chat
+Bundel Identifier: in.nstack.flutterFirebaseChat
