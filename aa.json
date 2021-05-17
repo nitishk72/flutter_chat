@@ -1,0 +1,18 @@
+{
+  "isEmailVerified": true,
+  "updatedAt": null,
+  "lastLoggedIn": "Timestamp(seconds=1621231786, nanoseconds=636000000)",
+  "phone": null,
+  "uid": "pedqRk1crgWhSu4fmhu0aTxR8J42",
+  "bio": "Hey there! I am using Firebase Flutter Chat",
+  "avatar": "https'://lh3.googleusercontent.com/a/AATXAJyQ8EDNl9jgyPVM4HkLXMXkuLKAYEfJUxBs_W1t=s96-c",
+  "isPublic": true,
+  "meta": {
+    "creationTime": "Timestamp(seconds=1621231780, nanoseconds=901999950)",
+    "lastSignInTime": "Timestamp(seconds=1621231780, nanoseconds=901999950)"
+  },
+  "loggedIn": "Google",
+  "email": "yt.nstack@gmail.com",
+  "createdAt": "Timestamp(seconds=1621231786, nanoseconds=636000000)",
+  "name": "NStack"
+}
